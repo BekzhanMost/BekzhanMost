@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // ВАЖНО: для https://bekzhanmost.github.io базовый путь — корень
+  base: '/BekzhanMost/', // имя репозитория, с тем же регистром
 })
