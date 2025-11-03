@@ -11,7 +11,10 @@
     "deploy": "gh-pages -d dist -t true"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@tailwindcss/postcss": "^4.1.16",
+=======
+>>>>>>> c692815cdd184c8e74a293314bd53b3eea986d14
     "@vitejs/plugin-react": "^4.7.0",
     "autoprefixer": "^10.4.21",
     "gh-pages": "^6.3.0",
@@ -20,7 +23,10 @@
     "vite": "^5.4.21"
   },
   "dependencies": {
+<<<<<<< HEAD
     "framer-motion": "^11.18.2",
+=======
+>>>>>>> c692815cdd184c8e74a293314bd53b3eea986d14
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   }
